@@ -1,0 +1,6 @@
+repeat_ryrz	1	2	3	4	5	6	7	8	9	10
+ryrz_depth	8	15	22	29	36	43	50	57	64	71
+ryrz_params	12	24	36	48	60	72	84	96	108	120
+repeat_Nblock	1	2	3	4	5	6	7	8
+Nblock_depth	16	31	46	61	76	91	106	121
+Nblock_params	21	42	63	84	105	126	147	168
